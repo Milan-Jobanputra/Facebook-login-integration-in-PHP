@@ -27,3 +27,8 @@ Ensure you follow best practices for security, such as using HTTPS on your websi
 
 Protect your App Secret; don’t expose it in your client-side code.
 Implement error handling and user feedback to deal with potential issues during the login process.
+
+And the Last :
+
+Testing:
+Before deploying to production, thoroughly test your integration in a development environment.
